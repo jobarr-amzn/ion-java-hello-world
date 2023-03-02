@@ -7,12 +7,13 @@ Files available:
 
 Your task is to populate a list of `Record` objects by reading Ion data from one of the above files.
 
-Y could start by gaining access to the file contents with e.g.
+You could start by gaining access to the file contents with e.g.
 ```java
 InputStream in = new FileInputStream("out.10n");
 ```
 
-Feel free to use the internet to look for sample code or documentation.
+Work in `App.java`. Feel free to use the internet to look for sample code or documentation.
+You can use any library you find helpful.
 
 Test your code by running `App.main` in your IDE, or by executing the app via `./gradlew run` from the project root.
 
