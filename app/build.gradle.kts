@@ -22,6 +22,9 @@ dependencies {
     compileOnly("com.google.auto.value:auto-value-annotations:${autoValueVersion}")
     annotationProcessor("com.google.auto.value:auto-value:${autoValueVersion}")
 
+    // Java, how can I count the ways
+    implementation("com.rainerhahnekamp:sneakythrow:1.2.0")
+
     implementation("com.amazon.ion:ion-java:1.9.5")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.14.2")
 }
