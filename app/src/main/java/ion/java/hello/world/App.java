@@ -28,9 +28,11 @@ public class App {
         // Could start with e.g. InputStream in = new FileInputStream("out.10n") ...
         // You can use the internet, look for sample code or documentation.
         // Test your code by running `main`, or by executing the app via `./gradlew run` from the project root.
-        List<Record> records = null;
+        System.out.printf("%n%nUsing ion-java natively: %n%n");
+        Lib.processRecords(Solution.getRecordsReader("out.10n"));
 
-        Lib.processRecords(records);
+        System.out.printf("%n%nUsing jackson-dataformat-ion: %n%n");
+        Lib.processRecords(Solution.getRecordsJackson("out.10n"));
     }
 
 }
