@@ -18,11 +18,19 @@ repositories {
 }
 
 dependencies {
+    val autoValueVersion = "1.10.1"
+    compileOnly("com.google.auto.value:auto-value-annotations:${autoValueVersion}")
+    annotationProcessor("com.google.auto.value:auto-value:${autoValueVersion}")
+
     implementation("com.amazon.ion:ion-java:1.9.5")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.14.2")
 }
 
 application {
     // Define the main class for the application.
-    mainClass.set("ion.java.hello.world.App")
+    mainClass.set("App")
 }
+
+// The application plugin's run task changes the working directory :(
+// See: https://github.com/gradle/gradle/issues/6074
+tasks.run.get().workingDir = rootDir
