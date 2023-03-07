@@ -1,21 +1,21 @@
 {label:" ",value:0.00,rank:0,order:0}
-{label:" ",value:0.18,rank:3,order:26}
-{label:" ",value:0.18,rank:3,order:28}
-{label:" ",value:0.18,rank:3,order:30}
-{label:" ",value:0.18,rank:3,order:32}
-{label:" ",value:0.18,rank:3,order:34}
-{label:" ",value:0.18,rank:3,order:36}
-{label:" ",value:0.18,rank:3,order:38}
-{label:" ",value:0.18,rank:3,order:39}
-{label:" ",value:0.18,rank:3,order:43}
-{label:" ",value:0.18,rank:3,order:45}
-{label:" ",value:0.18,rank:3,order:48}
-{label:" ",value:0.18,rank:3,order:52}
-{label:" ",value:0.18,rank:4,order:0}
-{label:" ",value:0.18,rank:4,order:1}
-{label:" ",value:0.18,rank:4,order:2}
-{label:" ",value:0.18,rank:4,order:3}
-{label:" ",value:0.19,rank:4,order:10}
+{label:" ",value:0.18,order:26,rank:3}
+{label:" ",value:0.18,order:28,rank:3}
+{label:" ",value:0.18,order:30,rank:3}
+{label:" ",value:0.18,order:32,rank:3}
+{label:" ",value:0.18,order:34,rank:3}
+{label:" ",value:0.18,order:36,rank:3}
+{label:" ",value:0.18,order:38,rank:3}
+{label:" ",value:0.18,order:39,rank:3}
+{label:" ",value:0.18,order:43,rank:3}
+{label:" ",value:0.18,order:45,rank:3}
+{label:" ",value:0.18,order:48,rank:3}
+{label:" ",value:0.18,order:52,rank:3}
+{label:" ",value:0.18,order:0,rank:4}
+{label:" ",value:0.18,order:1,rank:4}
+{label:" ",value:0.18,order:2,rank:4}
+{label:" ",value:0.18,order:3,rank:4}
+{label:" ",value:0.19,order:10,rank:4}
 {label:" ",value:0.19,rank:11,order:9}
 {label:" ",value:0.19,rank:11,order:10}
 {label:" ",value:0.19,rank:11,order:11}
@@ -28,9 +28,9 @@
 {label:" ",value:0.19,rank:11,order:18}
 {label:" ",value:0.19,rank:11,order:19}
 {label:" ",value:0.19,rank:11,order:20}
-{label:" ",value:0.20,rank:3,order:22}
-{label:" ",value:0.20,rank:4,order:30}
-{label:" ",value:0.20,rank:4,order:34}
+{label:" ",value:0.20,order:22,rank:3}
+{label:" ",value:0.20,order:30,rank:4}
+{label:" ",value:0.20,order:34,rank:4}
 {label:" ",value:0.20,rank:6,order:14}
 {label:" ",value:0.20,rank:6,order:15}
 {label:" ",value:0.20,rank:6,order:16}
@@ -61,32 +61,32 @@
 {label:" ",value:0.20,rank:7,order:34}
 {label:" ",value:0.20,rank:7,order:35}
 {label:" ",value:0.20,rank:7,order:40}
-{label:" ",value:0.20,rank:8,order:0}
-{label:" ",value:0.20,rank:8,order:1}
-{label:" ",value:0.20,rank:8,order:2}
-{label:" ",value:0.20,rank:8,order:4}
-{label:" ",value:0.20,rank:8,order:7}
-{label:" ",value:0.20,rank:8,order:9}
-{label:" ",value:0.20,rank:8,order:12}
-{label:" ",value:0.20,rank:8,order:15}
-{label:" ",value:0.20,rank:8,order:17}
-{label:" ",value:0.20,rank:8,order:24}
-{label:" ",value:0.20,rank:8,order:27}
-{label:" ",value:0.20,rank:8,order:30}
-{label:" ",value:0.20,rank:8,order:32}
-{label:" ",value:0.20,rank:8,order:34}
-{label:" ",value:0.20,rank:8,order:36}
-{label:" ",value:0.20,rank:8,order:38}
-{label:" ",value:0.20,rank:8,order:41}
-{label:" ",value:0.20,rank:9,order:0}
-{label:" ",value:0.20,rank:9,order:1}
-{label:" ",value:0.20,rank:9,order:2}
-{label:" ",value:0.20,rank:9,order:4}
-{label:" ",value:0.20,rank:9,order:6}
-{label:" ",value:0.20,rank:9,order:10}
-{label:" ",value:0.20,rank:9,order:12}
-{label:" ",value:0.20,rank:9,order:14}
-{label:" ",value:0.20,rank:9,order:16}
+{label:" ",value:0.20,order:0,rank:8}
+{label:" ",value:0.20,order:1,rank:8}
+{label:" ",value:0.20,order:2,rank:8}
+{label:" ",value:0.20,order:4,rank:8}
+{label:" ",value:0.20,order:7,rank:8}
+{label:" ",value:0.20,order:9,rank:8}
+{label:" ",value:0.20,order:12,rank:8}
+{label:" ",value:0.20,order:15,rank:8}
+{label:" ",value:0.20,order:17,rank:8}
+{label:" ",value:0.20,order:24,rank:8}
+{label:" ",value:0.20,order:27,rank:8}
+{label:" ",value:0.20,order:30,rank:8}
+{label:" ",value:0.20,order:32,rank:8}
+{label:" ",value:0.20,order:34,rank:8}
+{label:" ",value:0.20,order:36,rank:8}
+{label:" ",value:0.20,order:38,rank:8}
+{label:" ",value:0.20,order:41,rank:8}
+{label:" ",value:0.20,order:0,rank:9}
+{label:" ",value:0.20,order:1,rank:9}
+{label:" ",value:0.20,order:2,rank:9}
+{label:" ",value:0.20,order:4,rank:9}
+{label:" ",value:0.20,order:6,rank:9}
+{label:" ",value:0.20,order:10,rank:9}
+{label:" ",value:0.20,order:12,rank:9}
+{label:" ",value:0.20,order:14,rank:9}
+{label:" ",value:0.20,order:16,rank:9}
 {label:" ",value:0.20,rank:10,order:32}
 {label:" ",value:0.20,rank:10,order:36}
 {label:" ",value:0.20,rank:11,order:0}
@@ -98,10 +98,10 @@
 {label:" ",value:0.20,rank:11,order:6}
 {label:" ",value:0.20,rank:11,order:7}
 {label:" ",value:0.20,rank:11,order:8}
-{label:" ",value:0.21,rank:3,order:7}
-{label:" ",value:0.21,rank:3,order:12}
-{label:" ",value:0.21,rank:4,order:43}
-{label:" ",value:0.21,rank:4,order:44}
+{label:" ",value:0.21,order:7,rank:3}
+{label:" ",value:0.21,order:12,rank:3}
+{label:" ",value:0.21,order:43,rank:4}
+{label:" ",value:0.21,order:44,rank:4}
 {label:" ",value:0.21,rank:6,order:1}
 {label:" ",value:0.21,rank:6,order:2}
 {label:" ",value:0.21,rank:6,order:3}
@@ -114,13 +114,13 @@
 {label:" ",value:0.21,rank:6,order:11}
 {label:" ",value:0.21,rank:6,order:12}
 {label:" ",value:0.21,rank:6,order:13}
-{label:" ",value:0.21,rank:9,order:24}
-{label:" ",value:0.21,rank:9,order:26}
-{label:" ",value:0.21,rank:9,order:30}
-{label:" ",value:0.21,rank:9,order:33}
-{label:" ",value:0.21,rank:9,order:35}
-{label:" ",value:0.21,rank:9,order:37}
-{label:" ",value:0.21,rank:9,order:41}
+{label:" ",value:0.21,order:24,rank:9}
+{label:" ",value:0.21,order:26,rank:9}
+{label:" ",value:0.21,order:30,rank:9}
+{label:" ",value:0.21,order:33,rank:9}
+{label:" ",value:0.21,order:35,rank:9}
+{label:" ",value:0.21,order:37,rank:9}
+{label:" ",value:0.21,order:41,rank:9}
 {label:" ",value:0.21,rank:10,order:0}
 {label:" ",value:0.21,rank:10,order:1}
 {label:" ",value:0.21,rank:10,order:2}
@@ -130,11 +130,11 @@
 {label:" ",value:0.21,rank:10,order:20}
 {label:" ",value:0.21,rank:10,order:21}
 {label:" ",value:0.21,rank:10,order:24}
-{label:" ",value:0.22,rank:3,order:6}
-{label:" ",value:0.22,rank:3,order:9}
-{label:" ",value:0.22,rank:3,order:11}
-{label:" ",value:0.22,rank:3,order:16}
-{label:" ",value:0.22,rank:3,order:18}
+{label:" ",value:0.22,order:6,rank:3}
+{label:" ",value:0.22,order:9,rank:3}
+{label:" ",value:0.22,order:11,rank:3}
+{label:" ",value:0.22,order:16,rank:3}
+{label:" ",value:0.22,order:18,rank:3}
 {label:" ",value:0.22,rank:6,order:0}
 {label:" ",value:0.24,rank:2,order:33}
 {label:" ",value:0.24,rank:2,order:35}
@@ -147,10 +147,10 @@
 {label:" ",value:0.25,rank:1,order:18}
 {label:" ",value:0.25,rank:2,order:49}
 {label:" ",value:0.25,rank:2,order:51}
-{label:" ",value:0.25,rank:3,order:0}
-{label:" ",value:0.25,rank:3,order:1}
-{label:" ",value:0.25,rank:3,order:2}
-{label:" ",value:0.25,rank:3,order:4}
+{label:" ",value:0.25,order:0,rank:3}
+{label:" ",value:0.25,order:1,rank:3}
+{label:" ",value:0.25,order:2,rank:3}
+{label:" ",value:0.25,order:4,rank:3}
 {label:" ",value:0.26,rank:1,order:22}
 {label:" ",value:0.27,rank:1,order:26}
 {label:" ",value:0.27,rank:1,order:27}
@@ -187,43 +187,43 @@
 {label:"_",value:0.36,rank:11,order:23}
 {label:"_",value:0.37,rank:7,order:39}
 {label:"_",value:0.37,rank:7,order:41}
-{label:"_",value:0.37,rank:8,order:21}
-{label:"_",value:0.37,rank:8,order:22}
-{label:"_",value:0.37,rank:8,order:28}
+{label:"_",value:0.37,order:21,rank:8}
+{label:"_",value:0.37,order:22,rank:8}
+{label:"_",value:0.37,order:28,rank:8}
 {label:" ",value:0.38,rank:1,order:2}
 {label:" ",value:0.38,rank:1,order:7}
 {label:" ",value:0.38,rank:1,order:8}
 {label:" ",value:0.38,rank:1,order:9}
-{label:"_",value:0.38,rank:4,order:51}
+{label:"_",value:0.38,order:51,rank:4}
 {label:"_",value:0.38,rank:7,order:32}
 {label:"_",value:0.38,rank:7,order:36}
 {label:"_",value:0.38,rank:7,order:37}
 {label:"_",value:0.38,rank:7,order:38}
-{label:"_",value:0.38,rank:8,order:8}
-{label:"_",value:0.38,rank:8,order:14}
-{label:"_",value:0.38,rank:8,order:18}
-{label:"_",value:0.38,rank:8,order:19}
-{label:"_",value:0.38,rank:8,order:20}
-{label:"_",value:0.38,rank:8,order:39}
-{label:"_",value:0.38,rank:9,order:22}
-{label:"_",value:0.38,rank:9,order:28}
+{label:"_",value:0.38,order:8,rank:8}
+{label:"_",value:0.38,order:14,rank:8}
+{label:"_",value:0.38,order:18,rank:8}
+{label:"_",value:0.38,order:19,rank:8}
+{label:"_",value:0.38,order:20,rank:8}
+{label:"_",value:0.38,order:39,rank:8}
+{label:"_",value:0.38,order:22,rank:9}
+{label:"_",value:0.38,order:28,rank:9}
 {label:" ",value:0.39,rank:1,order:4}
 {label:" ",value:0.39,rank:1,order:5}
 {label:" ",value:0.39,rank:1,order:6}
-{label:"_",value:0.39,rank:4,order:47}
-{label:"_",value:0.39,rank:4,order:49}
-{label:"_",value:0.39,rank:4,order:50}
+{label:"_",value:0.39,order:47,rank:4}
+{label:"_",value:0.39,order:49,rank:4}
+{label:"_",value:0.39,order:50,rank:4}
 {label:"_",value:0.39,rank:6,order:4}
 {label:"_",value:0.39,rank:7,order:15}
 {label:"_",value:0.39,rank:7,order:28}
 {label:"_",value:0.39,rank:7,order:30}
 {label:"_",value:0.39,rank:7,order:31}
-{label:"_",value:0.39,rank:9,order:8}
-{label:"_",value:0.39,rank:9,order:18}
-{label:"_",value:0.39,rank:9,order:19}
-{label:"_",value:0.39,rank:9,order:20}
-{label:"_",value:0.39,rank:9,order:21}
-{label:"_",value:0.39,rank:9,order:39}
+{label:"_",value:0.39,order:8,rank:9}
+{label:"_",value:0.39,order:18,rank:9}
+{label:"_",value:0.39,order:19,rank:9}
+{label:"_",value:0.39,order:20,rank:9}
+{label:"_",value:0.39,order:21,rank:9}
+{label:"_",value:0.39,order:39,rank:9}
 {label:"_",value:0.39,rank:10,order:7}
 {label:"_",value:0.39,rank:10,order:8}
 {label:"_",value:0.39,rank:10,order:9}
@@ -232,9 +232,9 @@
 {label:"_",value:0.39,rank:10,order:22}
 {label:"_",value:0.39,rank:10,order:27}
 {label:"_",value:0.39,rank:10,order:28}
-{label:"_",value:0.40,rank:4,order:40}
-{label:"_",value:0.40,rank:4,order:41}
-{label:"_",value:0.40,rank:4,order:46}
+{label:"_",value:0.40,order:40,rank:4}
+{label:"_",value:0.40,order:41,rank:4}
+{label:"_",value:0.40,order:46,rank:4}
 {label:"_",value:0.40,rank:7,order:8}
 {label:"_",value:0.40,rank:7,order:9}
 {label:"_",value:0.40,rank:7,order:12}
@@ -242,34 +242,34 @@
 {label:"_",value:0.40,rank:7,order:24}
 {label:"_",value:0.40,rank:7,order:27}
 {label:"_",value:0.40,rank:10,order:4}
-{label:"_",value:0.41,rank:4,order:25}
-{label:"_",value:0.41,rank:4,order:28}
-{label:"_",value:0.41,rank:4,order:32}
-{label:"_",value:0.41,rank:4,order:36}
-{label:"_",value:0.41,rank:4,order:39}
+{label:"_",value:0.41,order:25,rank:4}
+{label:"_",value:0.41,order:28,rank:4}
+{label:"_",value:0.41,order:32,rank:4}
+{label:"_",value:0.41,order:36,rank:4}
+{label:"_",value:0.41,order:39,rank:4}
 {label:"_",value:0.41,rank:6,order:24}
 {label:"_",value:0.41,rank:7,order:4}
 {label:"_",value:0.41,rank:7,order:7}
-{label:"_",value:0.42,rank:4,order:23}
-{label:"_",value:0.42,rank:4,order:24}
-{label:"_",value:0.43,rank:4,order:20}
-{label:"_",value:0.43,rank:4,order:21}
-{label:"_",value:0.44,rank:4,order:16}
-{label:"_",value:0.44,rank:4,order:19}
-{label:"_",value:0.45,rank:3,order:40}
-{label:"_",value:0.45,rank:3,order:41}
-{label:"_",value:0.45,rank:4,order:13}
-{label:"_",value:0.45,rank:4,order:14}
-{label:"_",value:0.46,rank:3,order:50}
-{label:"_",value:0.46,rank:4,order:8}
-{label:"_",value:0.46,rank:4,order:12}
-{label:"_",value:0.47,rank:3,order:24}
-{label:"_",value:0.47,rank:4,order:5}
-{label:"_",value:0.48,rank:3,order:20}
+{label:"_",value:0.42,order:23,rank:4}
+{label:"_",value:0.42,order:24,rank:4}
+{label:"_",value:0.43,order:20,rank:4}
+{label:"_",value:0.43,order:21,rank:4}
+{label:"_",value:0.44,order:16,rank:4}
+{label:"_",value:0.44,order:19,rank:4}
+{label:"_",value:0.45,order:40,rank:3}
+{label:"_",value:0.45,order:41,rank:3}
+{label:"_",value:0.45,order:13,rank:4}
+{label:"_",value:0.45,order:14,rank:4}
+{label:"_",value:0.46,order:50,rank:3}
+{label:"_",value:0.46,order:8,rank:4}
+{label:"_",value:0.46,order:12,rank:4}
+{label:"_",value:0.47,order:24,rank:3}
+{label:"_",value:0.47,order:5,rank:4}
+{label:"_",value:0.48,order:20,rank:3}
 {label:"_",value:0.50,rank:0,order:1}
 {label:"_",value:0.50,rank:0,order:2}
-{label:"_",value:0.53,rank:3,order:14}
-{label:"_",value:0.54,rank:3,order:13}
+{label:"_",value:0.53,order:14,rank:3}
+{label:"_",value:0.54,order:13,rank:3}
 {label:" ",value:0.55,rank:0,order:41}
 {label:" ",value:0.55,rank:0,order:42}
 {label:" ",value:0.55,rank:0,order:43}
@@ -298,7 +298,7 @@
 {label:"_",value:0.58,rank:2,order:47}
 {label:" ",value:0.59,rank:0,order:26}
 {label:" ",value:0.59,rank:0,order:27}
-{label:"_",value:0.59,rank:2,order:46}
+{label:"_",value:0.59,order:46,rank:2}
 {label:" ",value:0.60,rank:0,order:6}
 {label:" ",value:0.60,rank:0,order:24}
 {label:" ",value:0.60,rank:0,order:25}
@@ -339,99 +339,99 @@
 {label:"|",value:0.86,rank:10,order:11}
 {label:"|",value:0.87,rank:10,order:5}
 {label:"_",value:0.88,rank:1,order:33}
-{label:"|",value:0.88,rank:4,order:42}
+{label:"|",value:0.88,order:42,rank:4}
 {label:"|",value:0.88,rank:10,order:3}
-{label:"|",value:0.89,rank:9,order:42}
-{label:"|",value:0.90,rank:4,order:37}
+{label:"|",value:0.89,order:42,rank:9}
+{label:"|",value:0.90,order:37,rank:4}
 {label:"_",value:0.91,rank:1,order:31}
-{label:"|",value:0.91,rank:9,order:31}
-{label:"|",value:0.91,rank:9,order:40}
-{label:"|",value:0.92,rank:4,order:35}
-{label:"|",value:0.92,rank:9,order:29}
-{label:"|",value:0.94,rank:9,order:25}
+{label:"|",value:0.91,order:31,rank:9}
+{label:"|",value:0.91,order:40,rank:9}
+{label:"|",value:0.92,order:35,rank:4}
+{label:"|",value:0.92,order:29,rank:9}
+{label:"|",value:0.94,order:25,rank:9}
 {label:"_",value:0.95,rank:1,order:30}
-{label:"|",value:0.95,rank:4,order:33}
-{label:"|",value:0.95,rank:9,order:23}
-{label:"|",value:0.96,rank:9,order:17}
-{label:"|",value:0.98,rank:4,order:31}
-{label:"|",value:0.98,rank:9,order:15}
+{label:"|",value:0.95,order:33,rank:4}
+{label:"|",value:0.95,order:23,rank:9}
+{label:"|",value:0.96,order:17,rank:9}
+{label:"|",value:0.98,order:31,rank:4}
+{label:"|",value:0.98,order:15,rank:9}
 {label:"_",value:0.99,rank:1,order:28}
-{label:"|",value:1.00,rank:9,order:13}
+{label:"|",value:1.00,order:13,rank:9}
 {label:"_",value:1.01,rank:1,order:25}
-{label:"|",value:1.02,rank:4,order:29}
-{label:"|",value:1.02,rank:9,order:11}
-{label:"|",value:1.04,rank:9,order:5}
-{label:"|",value:1.05,rank:4,order:27}
-{label:"|",value:1.06,rank:4,order:17}
-{label:"|",value:1.06,rank:8,order:25}
-{label:"|",value:1.06,rank:9,order:3}
-{label:"|",value:1.07,rank:3,order:53}
+{label:"|",value:1.02,order:29,rank:4}
+{label:"|",value:1.02,order:11,rank:9}
+{label:"|",value:1.04,order:5,rank:9}
+{label:"|",value:1.05,order:27,rank:4}
+{label:"|",value:1.06,order:17,rank:4}
+{label:"|",value:1.06,order:25,rank:8}
+{label:"|",value:1.06,order:3,rank:9}
+{label:"|",value:1.07,order:53,rank:3}
 {label:"_",value:1.08,rank:1,order:24}
-{label:"|",value:1.08,rank:8,order:11}
-{label:"|",value:1.08,rank:8,order:42}
-{label:"|",value:1.09,rank:8,order:23}
-{label:"|",value:1.10,rank:3,order:47}
-{label:"|",value:1.10,rank:4,order:15}
-{label:"|",value:1.10,rank:8,order:5}
-{label:"|",value:1.13,rank:8,order:3}
+{label:"|",value:1.08,order:11,rank:8}
+{label:"|",value:1.08,order:42,rank:8}
+{label:"|",value:1.09,order:23,rank:8}
+{label:"|",value:1.10,order:47,rank:3}
+{value:1.10,order:15,rank:4,label:"|"}
+{label:"|",value:1.10,order:5,rank:8}
+{label:"|",value:1.13,order:3,rank:8}
 {label:"_",value:1.15,rank:1,order:23}
-{label:"|",value:1.16,rank:3,order:46}
+{label:"|",value:1.16,order:46,rank:3}
 {label:"_",value:1.22,rank:1,order:21}
-{label:"|",value:1.22,rank:3,order:44}
-{label:"|",value:1.25,rank:3,order:37}
+{label:"|",value:1.22,order:44,rank:3}
+{label:"|",value:1.25,order:37,rank:3}
 {label:"_",value:1.32,rank:1,order:20}
-{label:"|",value:1.33,rank:3,order:35}
-{label:"\\",value:1.33,rank:4,order:48}
-{label:"\\",value:1.39,rank:4,order:45}
-{label:"|",value:1.42,rank:3,order:33}
-{label:"\\",value:1.42,rank:4,order:22}
-{label:"\\",value:1.43,rank:4,order:38}
+{label:"|",value:1.33,order:35,rank:3}
+{label:"\\",value:1.33,order:48,rank:4}
+{label:"\\",value:1.39,order:45,rank:4}
+{label:"|",value:1.42,order:33,rank:3}
+{label:"\\",value:1.42,order:22,rank:4}
+{label:"\\",value:1.43,order:38,rank:4}
 {label:"_",value:1.44,rank:1,order:19}
 {label:"\\",value:1.45,rank:10,order:37}
-{label:"\\",value:1.49,rank:4,order:18}
+{label:"\\",value:1.49,order:18,rank:4}
 {label:"\\",value:1.49,rank:10,order:33}
 {label:"_",value:1.50,rank:0,order:12}
-{label:"|",value:1.52,rank:3,order:31}
-{label:"/",value:1.53,rank:4,order:9}
-{label:"\\",value:1.54,rank:4,order:11}
-{label:"/",value:1.54,rank:4,order:26}
-{label:"\\",value:1.56,rank:8,order:33}
+{label:"|",value:1.52,order:31,rank:3}
+{label:"/",value:1.53,order:9,rank:4}
+{value:1.54,order:11,rank:4,label:"\\"}
+{label:"/",value:1.54,order:26,rank:4}
+{label:"\\",value:1.56,order:33,rank:8}
 {label:"_",value:1.60,rank:0,order:16}
-{label:"/",value:1.61,rank:3,order:42}
-{label:"/",value:1.61,rank:4,order:52}
-{label:"/",value:1.62,rank:4,order:6}
-{label:"\\",value:1.62,rank:8,order:16}
-{label:"\\",value:1.62,rank:8,order:31}
-{label:"\\",value:1.63,rank:4,order:7}
-{label:"|",value:1.64,rank:3,order:29}
-{label:"\\",value:1.67,rank:9,order:32}
+{label:"/",value:1.61,order:42,rank:3}
+{label:"/",value:1.61,order:52,rank:4}
+{label:"/",value:1.62,order:6,rank:4}
+{label:"\\",value:1.62,order:16,rank:8}
+{label:"\\",value:1.62,order:31,rank:8}
+{label:"\\",value:1.63,order:7,rank:4}
+{label:"|",value:1.64,order:29,rank:3}
+{label:"\\",value:1.67,order:32,rank:9}
 {label:"\\",value:1.67,rank:10,order:6}
-{label:"\\",value:1.68,rank:8,order:10}
+{label:"\\",value:1.68,order:10,rank:8}
 {label:"\\",value:1.68,rank:10,order:26}
 {label:"/",value:1.69,rank:10,order:35}
-{label:"\\",value:1.74,rank:4,order:4}
+{label:"\\",value:1.74,order:4,rank:4}
 {label:"/",value:1.74,rank:11,order:24}
-{label:"|",value:1.78,rank:3,order:27}
-{label:"/",value:1.81,rank:8,order:37}
+{label:"|",value:1.78,order:27,rank:3}
+{label:"/",value:1.81,order:37,rank:8}
 {label:"_",value:1.83,rank:0,order:11}
 {label:"_",value:1.88,rank:1,order:14}
-{label:"/",value:1.89,rank:3,order:15}
-{label:"/",value:1.89,rank:8,order:35}
-{label:"/",value:1.89,rank:10,order:23}
+{label:"/",value:1.89,order:15,rank:3}
+{label:"/",value:1.89,order:35,rank:8}
+{label:"/",rank:10,order:23,value:1.89}
 {label:"/",value:1.91,rank:10,order:10}
-{label:"/",value:1.92,rank:9,order:36}
-{label:"/",value:1.95,rank:8,order:6}
-{label:"/",value:1.95,rank:8,order:26}
-{label:"\\",value:2.00,rank:3,order:3}
-{label:"/",value:2.01,rank:3,order:10}
+{label:"/",value:1.92,order:36,rank:9}
+{label:"/",value:1.95,order:6,rank:8}
+{label:"/",value:1.95,order:26,rank:8}
+{label:"\\",value:2.00,order:3,rank:3}
+{label:"/",value:2.01,order:10,rank:3}
 {label:"_",value:2.11,rank:1,order:13}
-{label:"|",value:2.12,rank:3,order:21}
+{label:"|",value:2.12,order:21,rank:3}
 {label:"\\",value:2.14,rank:2,order:52}
 {label:"\\",value:2.22,rank:2,order:42}
 {label:"/",value:2.32,rank:2,order:48}
 {label:"\\",value:2.39,rank:2,order:36}
 {label:"/",value:2.43,rank:2,order:38}
-{label:"|",value:2.63,rank:3,order:17}
+{label:"|",value:2.63,order:17,rank:3}
 {label:"|",value:2.90,rank:2,order:44}
 {label:"/",value:3.43,rank:2,order:22}
 {label:"\\",value:3.54,rank:2,order:26}
@@ -443,37 +443,37 @@
 {label:"/",value:4.36,rank:2,order:11}
 {label:"|",value:4.60,rank:1,order:46}
 {label:"|",value:4.60,rank:2,order:17}
-{label:"(",value:5.08,rank:9,order:38}
+{label:"(",value:5.08,order:38,rank:9}
 {label:"\\",value:5.10,rank:2,order:4}
 {label:"/",value:5.35,rank:2,order:9}
-{label:"(",value:5.64,rank:9,order:27}
+{label:"(",value:5.64,order:27,rank:9}
 {label:"|",value:6.00,rank:1,order:44}
 {label:"(",value:6.12,rank:7,order:23}
-{label:"(",value:6.25,rank:9,order:7}
+{label:"(",value:6.25,order:7,rank:9}
 {label:"|",value:6.30,rank:1,order:17}
 {label:"\\",value:6.67,rank:2,order:2}
-{label:"(",value:6.67,rank:3,order:49}
+{label:"(",value:6.67,order:49,rank:3}
 {label:"/",value:6.93,rank:2,order:6}
 {label:"(",value:7.15,rank:7,order:3}
 {label:"/",value:7.25,rank:1,order:12}
-{label:")",value:7.54,rank:9,order:9}
+{label:")",value:7.54,order:9,rank:9}
 {label:")",value:7.70,rank:7,order:25}
 {label:"\\",value:8.17,rank:1,order:3}
 {label:")",value:9.60,rank:7,order:5}
-{label:"(",value:9.67,rank:3,order:23}
-{label:"V",value:9.94,rank:3,order:8}
-{label:")",value:10.10,rank:3,order:51}
-{label:"`",value:12.17,rank:8,order:40}
+{label:"(",value:9.67,order:23,rank:3}
+{label:"V",value:9.94,order:8,rank:3}
+{label:")",value:10.10,order:51,rank:3}
+{label:"`",value:12.17,order:40,rank:8}
 {label:"|",value:12.20,rank:1,order:15}
-{label:"V",value:13.40,rank:9,order:34}
+{label:"V",value:13.40,order:34,rank:9}
 {label:"/",value:14.00,rank:1,order:10}
 {label:"\\",value:15.67,rank:1,order:1}
-{label:"'",value:16.90,rank:8,order:13}
-{label:")",value:17.60,rank:3,order:25}
-{label:"`",value:17.70,rank:8,order:29}
+{label:"'",value:16.90,order:13,rank:8}
+{label:")",value:17.60,order:25,rank:3}
+{label:"`",value:17.70,order:29,rank:8}
 {label:"`",value:18.57,rank:2,order:32}
-{label:"(",value:18.89,rank:3,order:19}
-{label:"V",value:19.50,rank:3,order:5}
+{label:"(",value:18.89,order:19,rank:3}
+{label:"V",value:19.50,order:5,rank:3}
 {label:",",value:20.50,rank:10,order:40}
 {label:"'",value:21.17,rank:2,order:29}
 {label:",",value:40.00,rank:10,order:29}

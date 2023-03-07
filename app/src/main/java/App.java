@@ -17,7 +17,7 @@ public class App {
 
         @Override
         public String toString() {
-            return String.format("'%s' $%5.2f #%2d%2d", label, value, rank, order);
+            return String.format("$%5.2f #%02d%02d '%s'", value, rank, order, label);
         }
     }
 
