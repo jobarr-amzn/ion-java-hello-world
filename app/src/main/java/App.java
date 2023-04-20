@@ -7,6 +7,8 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.rainerhahnekamp.sneakythrow.Sneaky.sneaked;
+
 public class App {
 
     public static class Record {
@@ -32,9 +34,11 @@ public class App {
         // You can test your code by:
         // * running `main` from your IDE
         // * or by executing the app via `./gradlew run` from the project root
-        List<Record> records = new ArrayList<>();
+        System.out.printf("%n%nUsing ion-java natively: %n%n");
+        Consumer.processRecords(Solution.getRecordsReader(sneaked(Producer::binaryIonRecordStream)));
 
-        Consumer.processRecords(records);
+        System.out.printf("%n%nUsing jackson-dataformat-ion: %n%n");
+        Consumer.processRecords(Solution.getRecordsJackson(sneaked(Producer::binaryIonRecordStream)));
     }
 
 }
