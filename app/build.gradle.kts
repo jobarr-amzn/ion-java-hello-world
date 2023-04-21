@@ -31,6 +31,14 @@ application {
     mainClass.set("App")
 }
 
+
+// Necessary to allow exception stack traces to be visible if some error is made in the app
+tasks {
+    withType<JavaExec> {
+        setIgnoreExitValue(true)
+    }
+}
+
 // The application plugin's run task changes the working directory :(
 // See: https://github.com/gradle/gradle/issues/6074
 tasks.run.get().workingDir = rootDir
